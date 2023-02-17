@@ -7,7 +7,7 @@ title: A few things I learned this past week
 I didn't know this when I first built the copy and paste buttons for my [password generator](https://github.com/IceTheDev2/Passwordsy)
 in [version 1.2](https://github.com/IceTheDev2/Passwordsy/releases/tag/v1.2-alpha).
 
-I struggled to get the mouse position by binding the root window to <Motion>, 
+I struggled to get the mouse position by binding the root window to Motion, 
 to send the mouse coordinates to each file for each tab of the program through parameters of a function,
 to place a Tkinter button at those coordinates, but with a slight offset,
 to remove the button when the user released their mouse button on a password_label.
