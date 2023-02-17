@@ -24,7 +24,7 @@ and I updated the app with the better pop-up menus in [version 1.2.2](https://gi
 
 Which means that the screenshots will only update AFTER I merge a pull request into main.
   
-All the struggle and questioning why my screenshots weren't updating is finally over
+All the struggle and questioning why my screenshots weren't updating is finally over.
   
 ## The sticky attribute and weight in Tkinter
 The sticky attribute pins (sticks) the widgets to north, south, east or west.
