@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (23 March 2023) What are Magic Numbers in Programming and Why Should You Avoid Them?
+title: (24 March 2023) What are Magic Numbers in Programming and Why Should You Avoid Them?
 ---
 
 ## Introduction
